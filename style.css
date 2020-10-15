@@ -6922,12 +6922,12 @@ figure.overlay img {
         text-align: left;
     }
     .container {
-        padding-right: 25px;
-        padding-left: 25px;
+        padding-right: 32px;
+        padding-left: 32px;
     }
     .navbar .navbar-header {
-        padding-left: 25px;
-        padding-right: 25px;
+        padding-left: 32px;
+        padding-right: 32px;
         width: 100%;
     }
     .slick:not(.var-slick) .item {
