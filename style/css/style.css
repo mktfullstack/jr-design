@@ -6060,24 +6060,6 @@ figure.overlay img {
 /*	51. GO TO TOP
 /*-----------------------------------------------------------------------------------*/
 
-#scrollUp {
-    bottom: 15px;
-    right: 15px;
-    -webkit-transition: background 150ms ease-in-out;
-    -o-transition: background 150ms ease-in-out;
-    transition: background 150ms ease-in-out;
-    -webkit-backface-visibility: hidden;
-}
-#scrollUp .btn {
-    background: rgba(76, 152, 201, 0.8);
-    font-size: 24px;
-}
-#scrollUp .btn:hover,
-#scrollUp .btn:focus,
-#scrollUp .btn:active,
-#scrollUp .btn.active {
-    background: rgba(76, 152, 201, 1);
-}
 /*-----------------------------------------------------------------------------------*/
 /*	52. INVERSE TEXT
 /*-----------------------------------------------------------------------------------*/
